@@ -1,3 +1,15 @@
+# Core API
+fastapi
+uvicorn[standard]
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# AI/ML
+groq
+
+# Vector Database
 qdrant-client
 sentence-transformers
 torch
